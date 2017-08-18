@@ -1,4 +1,4 @@
-# CropPhoto
+# CropPhoto
 
 实现相册相片或摄像头拍照的截图功能
 
